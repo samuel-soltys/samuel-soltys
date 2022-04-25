@@ -1,9 +1,26 @@
-👋 Hey my name is Samuel and I am a student who loves graphic design, web development and programming. 
+Ambitious high school student who has been interested in information technology for more than 7 years. I
+have experience with programming games, applications, websites, web scrapers, and bots. In 2020, I have co-founded the Organic Oasis online store, which has become a successful business. Currently, I am mainly engaged in front-end development as a freelancer. I am working for the international research team Project Picoballoon and for a group of young talented students called Noove. I have created several websites, online stores for famous companies and personalities such as Slovak Forbes Top influencer 2020 - Jana Tomas. I am also interested in graphic design, painting, marketing, and investing in stocks and cryptocurrencies.
 
-💻 I have 6 years of programming experience and I know 8 programming languages (Python, C, C++, Love2D - Lua, HTML, CSS, Javascript, Basic - AGK and Darkbasic). 
 
-🛍️ I am also interested in creating e-commerce stores with Wordpress and Shoptet.
-I have worked for many successful brands and people including working and creating an e-commerce store for 
-the Forbes top influencer from Slovakia [@janatini](https://www.instagram.com/janatini) (51k followers)
+Skills 
+Programming:
+- Python - expert (projects such as: buy and sell bot for cryptocurrencies with transaction response <0.5 seconds via Binance API, scraper bot for checking the availability of limited products using the Selenium libraryf
+- HTML and CSS - exper
+- React.js and Next.js - intermediat􏰁
+- C - intermediate (credit card validity check, image filter, spell
+checker
+- C++ - intermediate (principles of competitive programmingf u Lua, game engine Löve - intermediat􏰁
+- Flutter - beginner
+Graphic Desig:
+- Figma - intermediate
+- Adobe Photoshop - exper
+- Adobe Illustrator - beginneÄ u Adobe XD - intermidiat􏰁
+- Inkscape - intermidiate
 
-📫 My email: [samuelsasanka@gmail.com](mailto:samuelsasanka@gmail.com)
+
+Other:
+- WordPress, Elementor - exper u Shoptet - exper
+- Git - intermediate
+
+Email: [me@samuelsoltys.com](mailto:me@samuelsoltys.com)
+LinkedIn: https://www.linkedin.com/in/samuel-soltys/
