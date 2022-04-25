@@ -12,16 +12,17 @@ Programming:
 checker
 - C++ - intermediate (principles of competitive programmingf u Lua, game engine Löve - intermediate
 - Flutter - beginner
-Graphic Desig:
+
+Graphic Design:
 - Figma - intermediate
 - Adobe Photoshop - exper
 - Adobe Illustrator - beginneÄ u Adobe XD - intermidiate
 - Inkscape - intermidiate
 
-
 Other:
 - WordPress, Elementor - exper u Shoptet - exper
 - Git - intermediate
 
+# Contact
 Email: [me@samuelsoltys.com](mailto:me@samuelsoltys.com)
 LinkedIn: https://www.linkedin.com/in/samuel-soltys/
