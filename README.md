@@ -5,17 +5,17 @@ have experience with programming games, applications, websites, web scrapers, an
 
 # Skills 
 Programming:
-- Python - expert (projects such as: buy and sell bot for cryptocurrencies with transaction response <0.5 seconds via Binance API, scraper bot for checking the availability of limited products using the Selenium libraryf
-- HTML and CSS - exper
-- React.js and Next.js - intermediat􏰁
+- Python - expert (projects such as: buy and sell bot for cryptocurrencies with transaction response <0.5 seconds via Binance API, scraper bot for checking the availability of limited products using the Selenium library
+- HTML and CSS - expert
+- React.js and Next.js - intermediate
 - C - intermediate (credit card validity check, image filter, spell
 checker
-- C++ - intermediate (principles of competitive programmingf u Lua, game engine Löve - intermediat􏰁
+- C++ - intermediate (principles of competitive programmingf u Lua, game engine Löve - intermediate
 - Flutter - beginner
 Graphic Desig:
 - Figma - intermediate
 - Adobe Photoshop - exper
-- Adobe Illustrator - beginneÄ u Adobe XD - intermidiat􏰁
+- Adobe Illustrator - beginneÄ u Adobe XD - intermidiate
 - Inkscape - intermidiate
 
 
