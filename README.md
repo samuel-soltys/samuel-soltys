@@ -8,19 +8,20 @@ Programming:
 - Python - expert (projects such as: buy and sell bot for cryptocurrencies with transaction response <0.5 seconds via Binance API, scraper bot for checking the availability of limited products using the Selenium library
 - HTML and CSS - expert
 - React.js and Next.js - intermediate
-- C - intermediate (credit card validity check, image filter, spell
-checker
+- C - intermediate (credit card validity check, image filter, spell checker
 - C++ - intermediate (principles of competitive programmingf u Lua, game engine Löve - intermediate
 - Flutter - beginner
 
 Graphic Design:
 - Figma - intermediate
 - Adobe Photoshop - exper
-- Adobe Illustrator - beginneÄ u Adobe XD - intermidiate
+- Adobe Illustrator - beginner 
+- Adobe XD - intermidiate
 - Inkscape - intermidiate
 
 Other:
-- WordPress, Elementor - exper u Shoptet - exper
+- WordPress, Elementor - expert
+- Shoptet - expert
 - Git - intermediate
 
 # Contact
