@@ -8,7 +8,9 @@ Ambitious high school student who has been interested in computer science for mo
 - React.js and Next.js - intermediate
 - C - intermediate (credit card validity check, image filter, spell checker
 - C++ - intermediate (principles of competitive programmingf u Lua, game engine Löve - intermediate
+- Lua, game engine Löve - intermediate
 - Flutter - beginner
+
 
 # Contact
 Email: [me@samuelsoltys.com](mailto:me@samuelsoltys.com)
