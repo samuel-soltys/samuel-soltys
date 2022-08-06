@@ -13,5 +13,5 @@ Ambitious high school student who has been interested in computer science for mo
 
 
 # Contact
-Email: [me@samuelsoltys.com](mailto:me@samuelsoltys.com)
+Email: [me@samuelsoltys.com](mailto:me@samuelsoltys.com)\
 LinkedIn: https://www.linkedin.com/in/samuel-soltys/
