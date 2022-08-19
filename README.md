@@ -5,7 +5,7 @@ Ambitious high school student who has been interested in computer science for mo
 # Programming skills:
 - Python - expert (projects such as: buy and sell bot for cryptocurrencies with transaction response <0.5 seconds via Binance API, scraper bot for checking the availability of limited products using the Selenium library
 - HTML and CSS - expert
-- React.js and Next.js - intermediate
+- React and Next.js - intermediate
 - C - intermediate (credit card validity check, image filter, spell checker
 - C++ - intermediate (principles of competitive programmingf u Lua, game engine Löve - intermediate
 - Lua, game engine Löve - intermediate
