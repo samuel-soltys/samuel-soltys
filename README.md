@@ -7,7 +7,7 @@ I am an ambitious high school student who has been interested in computer scienc
 - HTML and CSS - expert
 - React and Next.js - intermediate
 - C - intermediate (credit card validity check, image filter, spell checker
-- C++ - intermediate (principles of competitive programmingf u Lua, game engine Löve - intermediate
+- C++ - intermediate (principles of competitive programming
 - Lua, game engine Löve - intermediate
 - Flutter - beginner
 
