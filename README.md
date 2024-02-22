@@ -1,15 +1,25 @@
 # About me
-I am an ambitious high school student who has been interested in computer science for 8+ years. I have experience with programming games, applications, websites, web scrapers, and bots. In 2020, I have co-founded the Organic Oasis online store, which has become a successful business. Currently, I am mainly engaged in front-end development as a freelancer. I am working for the international research team Project Picoballoon and for a group of young talented students called Noove. I have created several websites, online stores for famous companies and personalities such as Slovak Forbes Top influencer 2020 - Jana Tomas.
-
+I am an ambitious high school student with over 8 years of keen interest in information technology. Proficient in programming games, applications, websites, web scrapers, and bots. Co-founded a successful six-figure revenue business, Organic Oasis, in 2020. Currently contributing as a Frontend Developer in international research projects, including stratospheric probes and a platform connecting students with companies. Worked at ESET as a Junior Machine Learning Engineer, contributing to the company's R&D branches. Proven track record in competitive programming, including notable achievements in several competitions.
 
 # Programming skills:
-- Python - expert (projects such as: buy and sell bot for cryptocurrencies with transaction response <0.5 seconds via Binance API, scraper bot for checking the availability of limited products using the Selenium library
+- Python - expert
+- Data Analysis - intermediate 
+- Machine Learning - intermediate
+- Pandas, Numpy - intermediate
+- Jupyter - intermediate
+- Scikit-learn - intermediate
+- Tensorflow - beginner
 - HTML and CSS - expert
-- React and Next.js - intermediate
-- C - intermediate (credit card validity check, image filter, spell checker
-- C++ - intermediate (principles of competitive programming
-- Lua, game engine Löve - intermediate
+- Javascript, TS - intermediate
+- React.js - intermediate
+- C - intermediate 
+- C++ - beginner 
+- Lua, Löve - intermediate
 - Flutter - beginner
+- Git - intermediate
+- Linux - beginner
+- Zsh (Bash) - intermediate
+- Binary Analysis - beginner
 
 
 # Contact
