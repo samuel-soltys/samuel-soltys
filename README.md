@@ -16,8 +16,8 @@ In my free time, I explore machine learning and experiment with new technologies
 - **[slovak-analysis](https://github.com/samuel-soltys/slovak-analysis)** – Data analysis of Slovakia’s socio-economic factors (2010–2021).
 
 ## Skills
-**Languages:** Python, JavaScript/TypeScript, Java, C, C++, Lua, SQL
-**Frameworks & Libraries:** React, Next.js, Flutter, Tailwind CSS, Supabase, Scikit-learn, TensorFlow  
+**Languages:** Python, JavaScript/TypeScript, Java, C, C++, Lua, SQL\
+**Frameworks & Libraries:** React, Next.js, Flutter, Tailwind CSS, Supabase, Scikit-learn, TensorFlow\
 **Tools & Development:** Git, Linux, Zsh/Bash, UI/UX design, API & database design
 
 ---
