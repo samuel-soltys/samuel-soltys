@@ -4,8 +4,8 @@ Software engineer & incoming CS student at TU Delft, coding since age 9 and buil
 In my free time, I explore machine learning and experiment with new technologies.
 
 ## Projects & Experience
-- **[SearchMyUni](https://searchmyuni.com)** – University search platform with data on 1,284 institutions and ~100,000 data points, built with Next.js and Supabase.
-- **[Ministry of Tourism & Sports (Slovakia)](https://slovakiaexpo.sk)** – Developed the official site for Slovakia’s pavilion at EXPO 2025 Osaka.  
+- **[SearchMyUni.com](https://searchmyuni.com)** – University search platform with data on 1,284 institutions and ~100,000 data points, built with Next.js and Supabase.
+- **[SlovakiaExpo.sk](https://slovakiaexpo.sk)** – Developed the official site of Slovakia’s pavilion at EXPO 2025 Osaka for Ministry of Tourism & Sports.  
 - **[Organic Oasis](https://organic-oasis.sk)** – Co-founded and grew a six-figure e-commerce brand, handling everything from website development to marketing.  
 - **[Project Picoballoon](https://picoballoon.org)** – Built a QR rescue system and contributed to responsive frontend features for atmospheric research probes.  
 - **[Noove](https://trynoove.com)** – Worked on a student–company matchmaking platform.
