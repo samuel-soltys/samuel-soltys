@@ -1,27 +1,25 @@
-# About me
-I am an ambitious high school student with over 8 years of keen interest in information technology. Proficient in programming games, applications, websites, web scrapers, and bots. Co-founded a successful six-figure revenue business, Organic Oasis, in 2020. Currently contributing as a Frontend Developer in international research projects, including stratospheric probes and a platform connecting students with companies. Worked at ESET as a Junior Machine Learning Engineer, contributing to the company's R&D branches. Proven track record in competitive programming, including notable achievements in several competitions.
+## 👋 Hey, I’m Samuel  
 
-# Programming skills:
-- Python - expert
-- Data Analysis - intermediate 
-- Machine Learning - intermediate
-- Pandas, Numpy - intermediate
-- Jupyter - intermediate
-- Scikit-learn - intermediate
-- Tensorflow - beginner
-- HTML and CSS - expert
-- Javascript, TS - intermediate
-- React.js - intermediate
-- C - intermediate 
-- C++ - beginner 
-- Lua, Löve - intermediate
-- Flutter - beginner
-- Git - intermediate
-- Linux - beginner
-- Zsh (Bash) - intermediate
-- Binary Analysis - beginner
+Software engineer & incoming CS student at TU Delft, coding since age 9 and building everything from profitable e-commerce stores to software for stratospheric probes.
+In my free time, I explore machine learning and experiment with new technologies.
 
+## Projects & Experience
+- **[SearchMyUni](https://searchmyuni.com)** – University search platform with data on 1,284 institutions and ~100,000 data points, built with Next.js and Supabase.
+- **[Ministry of Tourism & Sports (Slovakia)](https://slovakiaexpo.sk)** – Developed the official site for Slovakia’s pavilion at EXPO 2025 Osaka.  
+- **[Organic Oasis](https://organic-oasis.sk)** – Co-founded and grew a six-figure e-commerce brand, handling everything from website development to marketing.  
+- **[Project Picoballoon](https://picoballoon.org)** – Built a QR rescue system and contributed to responsive frontend features for atmospheric research probes.  
+- **[Noove](https://trynoove.com)** – Worked on a student–company matchmaking platform.
+- **ESET R&D** – Machine learning internship focused on malware detection.
 
-# Contact
-Email: [me@samuelsoltys.com](mailto:me@samuelsoltys.com)\
-LinkedIn: https://www.linkedin.com/in/samuel-soltys/
+## Open Source & Side Projects
+- **[j-neural-core](https://github.com/samuel-soltys/j-neural-core)** – Minimal Java neural network library with autograd, MLP, and classification examples, built from scratch. 
+- **[slovak-analysis](https://github.com/samuel-soltys/slovak-analysis)** – Data analysis of Slovakia’s socio-economic factors (2010–2021).
+
+## Skills
+**Languages:** Python, JavaScript/TypeScript, Java, C, C++, Lua, SQL
+**Frameworks & Libraries:** React, Next.js, Flutter, Tailwind CSS, Supabase, Scikit-learn, TensorFlow  
+**Tools & Development:** Git, Linux, Zsh/Bash, UI/UX design, API & database design
+
+---
+
+📫 **me@samuelsoltys.com** • [LinkedIn](https://www.linkedin.com/in/samuel-soltys/)
