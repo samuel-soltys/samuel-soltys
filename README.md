@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m Samuel  
 
-Software engineer & incoming CS student at TU Delft, coding since age 9 and building everything from profitable e-commerce stores to software for stratospheric probes.
+Software engineer & incoming CS student at TU Delft, coding since age 9 and building everything from profitable e-commerce stores to software for stratospheric probes.\
 In my free time, I explore machine learning and experiment with new technologies.
 
 ## Projects & Experience
