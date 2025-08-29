@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m Samuel  
 
-Software engineer & incoming CS student at TU Delft, coding since age 9 and building everything from profitable e-commerce stores to software for stratospheric probes.\
+Software engineer & Bachelor’s student in Computer Science at TU Delft, coding since age 9 and building everything from profitable e-commerce stores to software for stratospheric probes.\
 In my free time, I explore machine learning and experiment with new technologies.
 
 ## Projects & Experience
@@ -14,6 +14,7 @@ In my free time, I explore machine learning and experiment with new technologies
 ## Open Source & Side Projects
 - **[j-neural-core](https://github.com/samuel-soltys/j-neural-core)** – Minimal Java neural network library with autograd, MLP, and classification examples, built from scratch. 
 - **[slovak-analysis](https://github.com/samuel-soltys/slovak-analysis)** – Data analysis of Slovakia’s socio-economic factors (2010–2021).
+- - **[koblihy.sk](https://github.com/samuel-soltys/koblihy-website)** – Presentation website for our game development team, built with Next.js.
 
 ## Skills
 **Languages:** Python, JavaScript/TypeScript, Java, C, C++, Lua, SQL\
